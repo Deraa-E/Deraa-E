@@ -1,4 +1,4 @@
-- <h1 align="center">Hi, I'm Chideraa — Front-End Developer in the Making!</h1>
+<h1 align="center">Hi, I'm Chideraa — Front-End Developer in the Making!</h1>
 
 <p align="center">
   <em>“Every expert was once a beginner. I’m here to learn, build, and grow.”</em>
